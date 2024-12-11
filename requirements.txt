@@ -1,0 +1,5 @@
+Flask
+pyzbar
+Pillow
+Werkzeug
+opencv-python  # 如果需要使用OpenCV
